@@ -12,3 +12,4 @@ ZCZC W01 5 L22 Quiz
 ZCZC W01 100 L02 monday ZOOM meetings
 ZCZC W01 77 L10 Assignment #00
 ZCZC W01 30 L31 VirtualBox: Downloading and Installing VirtualBox, PuTTY, and WinSCP
+ZCZC W01 10 L31 VirtualBox: Setting up (In Progress)
