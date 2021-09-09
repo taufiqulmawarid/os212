@@ -8,3 +8,6 @@ ZCZC W00 5 L14 Assignment #04
 ZCZC W00 45 L13 Assignment #03
 ZCZC W00 200 L02 ZOOM meetings related
 ZCZC W00 60 L15 Assignment #05
+ZCZC W01 5 L22 Quiz
+ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01 77 L10 Assignment #00
