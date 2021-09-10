@@ -10,8 +10,9 @@ ZCZC W00 200 L02 ZOOM meetings related
 ZCZC W00 60 L15 Assignment #05
 ZCZC W01 5 L22 Quiz
 ZCZC W01 100 L02 monday ZOOM meetings
-ZCZC W01 77 L10 Assignment #00
+ZCZC W01 77 L11 Assignment #01
 ZCZC W01 30 L31 VirtualBox: Downloading and Installing VirtualBox, PuTTY, and WinSCP
 ZCZC W01 7 L31 VirtualBox: Setting up
 ZCZC W01 270 L70 Studying for other courses
 ZCZC W01 79 L31 VirtualBox: Finished installing Debian 11 (Going with option 2)
+ZCZC W01 33 L12 Assignment #02
