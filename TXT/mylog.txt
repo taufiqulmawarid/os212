@@ -16,3 +16,4 @@ ZCZC W01 7 L31 VirtualBox: Setting up
 ZCZC W01 270 L70 Studying for other courses
 ZCZC W01 79 L31 VirtualBox: Finished installing Debian 11 (Going with option 2)
 ZCZC W01 33 L12 Assignment #02
+ZCZC W01 25 L13 Assignment #03
