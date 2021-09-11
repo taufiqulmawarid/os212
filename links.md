@@ -1,7 +1,7 @@
 ---
 permalink: /LINKS/
 ---
-[Home](..) | [Links](.)
+[Home](/) | [Links](/LINKS/)
 -
 # LINKS
 
