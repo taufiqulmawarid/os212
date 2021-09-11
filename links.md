@@ -1,7 +1,8 @@
 ---
 permalink: /LINKS/
 ---
-
+[Home](.) | [Links](LINKS/)
+-
 # LINKS
 
 1. [One](https://en.wikipedia.org/wiki/1)<br>
