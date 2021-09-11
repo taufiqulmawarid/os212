@@ -4,3 +4,4 @@ My name is Muhammad Taufiqul Mawarid Nazaruddin Lopa, people usually call me Tau
 - [Profile 👨‍🎓](https://github.com/taufiqulmawarid)
 - [Log 📝](TXT/mylog.txt)
 - [Repository 🗄️](https://github.com/taufiqulmawarid/os212)
+- [More Links 🔗](/LINKS/)
