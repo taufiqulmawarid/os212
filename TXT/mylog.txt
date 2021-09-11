@@ -21,3 +21,4 @@ ZCZC W01 45 L14 Assignment #04
 ZCZC W01 25 L15 Assignment #05
 ZCZC W01 5 L21 trying to submit this log from virtual machine
 ZCZC W01 5 L17 Assignment #07
+ZCZC W01 10 L16 Assignment #06
