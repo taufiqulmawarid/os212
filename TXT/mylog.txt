@@ -24,4 +24,7 @@ ZCZC W01 5 L17 Assignment #07
 ZCZC W01 10 L16 Assignment #06
 ZCZC W01 30 L18 Assignment #08
 ZCZC W01 60 L19 Assignment #09
-ZCZC W02 10 L04 Updating github pages
+ZCZC W02 10 L04 Updating github links pages
+ZCZC W02 100 L02 Attended monday zoom meetings
+ZCZC W02 180 L07 Trying Demo week 0 to week 2
+ZCZC W02 60 L09 Completed all the week 2 assignments
