@@ -16,7 +16,7 @@ Regular expression is important in any computer environment. Here's a usefull ch
 Vim is one of the most used text editor in linux. Well its probably because linux usually comes pre-installed with vim but the point still stand. Its sometimes confusing for new user trying to use vim. You can use this command list to help you use vim.
 
 4. [Differences between awk, sed, and grep](https://www.baeldung.com/linux/grep-sed-awk-differences)<br>
-on linux there are many commands you can use. On the text manipulating side, people usually use awk, sed, and grep. What exactly are those? I find this article very useful to me. The explanation are simple and easy to understand.
+On linux there are many commands you can use. On the text manipulating side, people usually use awk, sed, and grep. What exactly are those? I find this article very useful to me. The explanation are simple and easy to understand.
 
 5. [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn](https://youtu.be/inWWhr5tnEA)<br>
 Introduction to cyber security in 7 minutes. Learn what cyber security is, types of cyber attack, how to prevent cyber attack by doing cyber security practices, and the cyber security careers. You can start learning about cyber security from here.
