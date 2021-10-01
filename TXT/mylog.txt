@@ -50,3 +50,15 @@ ZCZC W03 20 L16 Assignment #06
 ZCZC W03 20 L17 Assignment #07
 ZCZC W03 10 L18 Assignment #08
 ZCZC W03 5 L19 Assignment #09
+ZCZC W04 20 L22 Quiz
+ZCZC W04 100 L02 Attended monday zoom meeting
+ZCZC W04 90 L11 Assignment #01
+ZCZC W04 20 L12 Assignment #02
+ZCZC W04 60 L07 Learning more about the demo
+ZCZC W04 60 L13 Assignment #03
+ZCZC W04 5 L14 Assignment #04
+ZCZC W04 10 L15 Assignment #05
+ZCZC W04 10 L16 Assignment #06
+ZCZC W04 10 L17 Assignment #07
+ZCZC W04 5 L18 Assignment #08
+ZCZC W04 5 L19 Assignment #09
