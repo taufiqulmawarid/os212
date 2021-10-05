@@ -32,3 +32,21 @@ Being a low level programming language, in C you need to manually allocate every
 
 9. [C - Memory Management](https://youtu.be/734IQSAkww4)<br>
 Video tutorial to help you better understand about memory management in C language
+
+10. [Understanding Shared Libraries in Linux](https://www.tecmint.com/understanding-shared-libraries-in-linux/)<br>
+In programming, you don't want to rewrite the same code for every program you want to make, sparing you from the unecessary cluttering and bloated program size. With shared library, you can use the method available in the library without rewriting it on your program. You can visit this article for introduction to shared libraries in linux
+
+11. [Paging in Operating Systems with Example & Working - Memory Management](https://youtu.be/pJ6qrCB8pDw)<br>
+Paging is a memory management system that is very popular and widely used even to this day. This video explains what paging is with clear explanation and visual.
+
+12. [What is virtual memory? – Gary explains](https://youtu.be/2quKyPnUShQ)<br>
+What is a virtual memory? How does it work? I find this video's explanation very useful and you might too!
+
+13. [Memory Swapping](https://www.techopedia.com/definition/30467/memory-swapping)<br>
+Memory swapping is a memory reclamation method wherein memory contents not currently in use are swapped to a disk to make the memory available for other applications or processes. This is very useful if you have no memory left for program to run. You can visit this link and understand more about memory swap
+
+14. [Thrashing in Operating System](https://www.studytonight.com/operating-system/thrashing-in-operating-system)<br>
+Thrashing is a condition where the system spend more time in paging rather than actual productive processing. This is something you want to avoid. Familiarize yourself with thrashing and its technique to handle this problem.
+
+15. [Demand Paging Notes](http://lass.cs.umass.edu/~shenoy/courses/fall13/lectures/Lec14_notes.pdf)<br>
+Demand paging is a technique whereby pages are loaded only when they are demanded during program execution. This is commonly used in virtual memory systems. A demand-paging system is similar to a paging system with swapping Demand paging explains one of the primary benefits of virtual memory, by loading only the portions of programs that are needed, memory is used more efficiently. This notes explain very clearly about demand paging.
