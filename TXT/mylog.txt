@@ -62,3 +62,19 @@ ZCZC W04 10 L16 Assignment #06
 ZCZC W04 10 L17 Assignment #07
 ZCZC W04 5 L18 Assignment #08
 ZCZC W04 5 L19 Assignment #09
+ZCZC W05 20 L22 Quiz
+ZCZC W05 100 L02 Attended monday zoom meeting
+ZCZC W05 128 L11 Assignment #01
+ZCZC W05 119 L12 Assignment #02
+ZCZC W05 99 L13 Assignment #03
+ZCZC W05 10 L62 Backup Virtual Debian Guest before starting this week assignment
+ZCZC W05 5 L27 Decrypting this week assignment
+ZCZC W05 5 L24 using tail and awk to sort memory address for Assignment #04
+ZCZC W05 68 L14 Assignment #04
+ZCZC W05 17 L15 Assignment #05
+ZCZC W05 1 L16 Assignment #06
+ZCZC W05 13 L17 Assignment #07
+ZCZC W05 10 L18 Assignment #08
+ZCZC W05 5 L19 Assignmeng #09
+ZCZC W05 45 L07 Trying demo again
+
