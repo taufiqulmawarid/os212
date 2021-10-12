@@ -55,7 +55,7 @@ Demand paging is a technique whereby pages are loaded only when they are demande
 A short video explaining processes and threads.
 
 17. [Atomic Operation](https://www.techopedia.com/definition/3466/atomic-operation#:~:text=Explains%20Atomic%20Operation-,What%20Does%20Atomic%20Operation%20Mean%3F,systems%20and%20parallel%20processing%20systems.)<br>
-Atomic?! thats sounds so cool! but what is atomic operation is operating system? This article can help you understand it.
+Atomic?! thats sounds so cool! but what is atomic operation in operating system? This article can help you understand it.
 
 18. [Semaphores in Operating System](https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
 In computer science, a semaphore is a variable or abstract data type used to control access to a common resource by multiple processes and avoid critical section problems in a concurrent system such as a multitasking operating system. This article explain more of what it is, the advantage of using it, and the disadvantage of using it.
