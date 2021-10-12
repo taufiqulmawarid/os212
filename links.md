@@ -50,3 +50,15 @@ Thrashing is a condition where the system spend more time in paging rather than 
 
 15. [Demand Paging Notes](http://lass.cs.umass.edu/~shenoy/courses/fall13/lectures/Lec14_notes.pdf)<br>
 Demand paging is a technique whereby pages are loaded only when they are demanded during program execution. This is commonly used in virtual memory systems. A demand-paging system is similar to a paging system with swapping Demand paging explains one of the primary benefits of virtual memory, by loading only the portions of programs that are needed, memory is used more efficiently. This notes explain very clearly about demand paging.
+
+16. [Process Management (Processes and Threads)](https://youtu.be/OrM7nZcxXZU)<br>
+A short video explaining processes and threads.
+
+17. [Atomic Operation](https://www.techopedia.com/definition/3466/atomic-operation#:~:text=Explains%20Atomic%20Operation-,What%20Does%20Atomic%20Operation%20Mean%3F,systems%20and%20parallel%20processing%20systems.)<br>
+Atomic?! thats sounds so cool! but what is atomic operation is operating system? This article can help you understand it.
+
+18. [Semaphores in Operating System](https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
+In computer science, a semaphore is a variable or abstract data type used to control access to a common resource by multiple processes and avoid critical section problems in a concurrent system such as a multitasking operating system. This article explain more of what it is, the advantage of using it, and the disadvantage of using it.
+
+19. [Relaxing song to help you study](https://youtu.be/dQw4w9WgXcQ)<br>
+If you have trouble studying OS and thinking of giving up or you're let down by your quiz score, don't run around or feel hurt! this song will help you relax.
