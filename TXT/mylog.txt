@@ -77,4 +77,15 @@ ZCZC W05 13 L17 Assignment #07
 ZCZC W05 10 L18 Assignment #08
 ZCZC W05 5 L19 Assignmeng #09
 ZCZC W05 45 L07 Trying demo again
-
+ZCZC W06 20 L22 Quiz
+ZCZC W06 100 L02 Attended thursday zoom meeting
+ZCZC W06 103 L11 Assignment #01
+ZCZC W06 40 L12 Assignment #02
+ZCZC W06 53 L13 Assignment #03
+ZCZC W06 30 L14 Assignment #04
+ZCZC W06 10 L15 Assignment #05
+ZCZC W06 1 L16 Assignment #06
+ZCZC W06 10 L17 Assignment #07
+ZCZC W06 10 L18 Assignment #08
+ZCZC W06 5 L19 Assignment #09
+ZCZC W06 60 L07 Studying demo again

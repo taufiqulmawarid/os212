@@ -11,3 +11,6 @@ ZCZC W04 aghoz-i
 ZCZC W05 ajierestus
 ZCZC W05 aldariaski
 ZCZC W05 almiramaharani
+ZCZC W06 anantus
+ZCZC W06 andhikalfariz
+ZCZC W06 anindyasasriya
