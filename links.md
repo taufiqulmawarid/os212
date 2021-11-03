@@ -60,5 +60,14 @@ Atomic?! thats sounds so cool! but what is atomic operation in operating system?
 18. [Semaphores in Operating System](https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
 In computer science, a semaphore is a variable or abstract data type used to control access to a common resource by multiple processes and avoid critical section problems in a concurrent system such as a multitasking operating system. This article explain more of what it is, the advantage of using it, and the disadvantage of using it.
 
-19. [Relaxing song to help you study](https://youtu.be/dQw4w9WgXcQ)<br>
+19. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Deadlock is one of the problem that can arise from multiprocess program. What is a deadlock and how to handle it? This article can help you understand more about it.
+
+20. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
+In Computer Science, shared memory is memory that may be simultaneously accessed by multiple programs with an intent to provide communication among them or avoid redundant copies. Shared memory is an efficient means of passing data between programs. Depending on context, programs may run on a single processor or on multiple separate processors. Visit this article to understand more about it.
+
+21. [Race Condition](https://docs.microsoft.com/en-us/troubleshoot/dotnet/visual-basic/race-conditions-deadlocks)<br>
+A situation where several processes access and manipulate the same data concurrently and the outcome of the execution depends on the particular order in which the access takes place, is called a race condition. This Microsoft documentation explains more about race condition and deadlock.
+
+22. [Relaxing song to help you study](https://youtu.be/dQw4w9WgXcQ)<br>
 If you have trouble studying OS and thinking of giving up or you're let down by your quiz score, don't run around or feel hurt! this song will help you relax.
