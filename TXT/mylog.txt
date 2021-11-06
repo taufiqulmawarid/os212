@@ -89,3 +89,18 @@ ZCZC W06 10 L17 Assignment #07
 ZCZC W06 10 L18 Assignment #08
 ZCZC W06 5 L19 Assignment #09
 ZCZC W06 60 L07 Studying demo again
+ZCZC W07 20 L22 Quiz
+ZCZC W07 30 L02 Attended monday zoom meeting
+ZCZC W07 70 L32 Watch Mr. Anwar YouTube
+ZCZC W07 100 L02 Attended thursday zoom meting
+ZCZC W07 111 L11 Assignment #01
+ZCZC W07 47 L12 Assignment #02
+ZCZC W07 34 L13 Assignment #03
+ZCZC W07 80 L14 Assignment #04
+ZCZC W07 20 L15 Assignment #05
+ZCZC W07 1 L16 Assignment #06
+ZCZC W07 15 L17 Assignment #07
+ZCZC W07 5 L18 Assignment #08
+ZCZC W07 32 L07 Trying demo again
+ZCZC W07 15 L62 Backup Virtual Debian Guest
+ZCZC W07 5 L19 Assignment #09
