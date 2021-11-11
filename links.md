@@ -69,5 +69,15 @@ In Computer Science, shared memory is memory that may be simultaneously accessed
 21. [Race Condition](https://docs.microsoft.com/en-us/troubleshoot/dotnet/visual-basic/race-conditions-deadlocks)<br>
 A situation where several processes access and manipulate the same data concurrently and the outcome of the execution depends on the particular order in which the access takes place, is called a race condition. This Microsoft documentation explains more about race condition and deadlock.
 
-22. [Relaxing song to help you study](https://youtu.be/dQw4w9WgXcQ)<br>
+22. [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+CPU scheduling is the basis of multiprogrammed operating systems. By switching the CPU among processes, the operating system can make the computer
+more productive. This article might give you a better idea of what CPU scheduling is.
+
+23. [More about CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html)<br>
+This article explains further about CPU scheduling such as types of CPU scheduling algorithm.
+
+24. [Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)<br>
+In multiple-processor scheduling multiple CPU’s are available and hence Load Sharing becomes possible. However multiple processor scheduling is more complex as compared to single processor scheduling. In multiple processor scheduling there are cases when the processors are identical i.e. HOMOGENEOUS, in terms of their functionality, we can use any processor available to run any process in the queue. Learn more about Multi-processor Scheduling here.
+
+25. [Relaxing song to help you study](https://youtu.be/dQw4w9WgXcQ)<br>
 If you have trouble studying OS and thinking of giving up or you're let down by your quiz score, don't run around or feel hurt! this song will help you relax.
