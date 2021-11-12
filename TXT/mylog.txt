@@ -104,3 +104,16 @@ ZCZC W07 5 L18 Assignment #08
 ZCZC W07 32 L07 Trying demo again
 ZCZC W07 15 L62 Backup Virtual Debian Guest
 ZCZC W07 5 L19 Assignment #09
+ZCZC W08 20 L22 Quiz
+ZCZC W08 20 L02 Attended monday zoom meeting
+ZCZC W08 100 L02 Attended thursday zoom meeting
+ZCZC W08 129 L11 Assignment #01
+ZCZC W08 39 L12 Assignment #02
+ZCZC W08 35 L13 Assignment #03
+ZCZC W08 80 L14 Assignment #04
+ZCZC W08 155 L15 Assignment #05
+ZCZC W08 10 L16 Assignment #06
+ZCZC W08 1 L17 Assignment #07
+ZCZC W08 15 L18 Assignment #08
+ZCZC W08 10 L19 Assignment #09
+ZCZC W08 5 L20 Assignment #10
