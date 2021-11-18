@@ -79,5 +79,14 @@ This article explains further about CPU scheduling such as types of CPU scheduli
 24. [Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)<br>
 In multiple-processor scheduling multiple CPU’s are available and hence Load Sharing becomes possible. However multiple processor scheduling is more complex as compared to single processor scheduling. In multiple processor scheduling there are cases when the processors are identical i.e. HOMOGENEOUS, in terms of their functionality, we can use any processor available to run any process in the queue. Learn more about Multi-processor Scheduling here.
 
-25. [Relaxing song to help you study](https://youtu.be/dQw4w9WgXcQ)<br>
+25. [How do hard drives work? - Kanawat Senanan](https://youtu.be/wteUW2sL7bc)<br>
+Until the recent invention of solid state drive, hard disk drive were used for decades. They are used as nonvolatile permanent mass storage to store any data the user wants. But how does it actually work? This youtube video explain how it works in 5 minutes.
+
+26. [Hard Drive Disk Scheduling](http://www.cs.iit.edu/~cs561/cs450/disksched/disksched.html)<br>
+One of the responsibilities of the operating system is to use the hardware efficiently. For HDDs, meeting this responsibility entails access time and maximizing data transfer bandwidth. Doing such thing are performed by varying algorithm. This article explain HDD scheduling.
+
+27. [Bad Blocks](https://searchstorage.techtarget.com/definition/bad-block)<br>
+Because disk have moving parts and small tolerances(such as disk head/reader sit just above the disk surface), they are prone to failure. One of the failure that can happen to HDD are bad block. A bad block is an area of the storage that is no longer reliable or usable because it has been physically damaged or corrupted. Learn more aboud bad block from this article.
+
+28. [Relaxing song to help you study](https://youtu.be/dQw4w9WgXcQ)<br>
 If you have trouble studying OS and thinking of giving up or you're let down by your quiz score, don't run around or feel hurt! this song will help you relax.
