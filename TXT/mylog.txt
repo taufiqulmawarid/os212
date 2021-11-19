@@ -117,3 +117,15 @@ ZCZC W08 1 L17 Assignment #07
 ZCZC W08 15 L18 Assignment #08
 ZCZC W08 10 L19 Assignment #09
 ZCZC W08 5 L20 Assignment #10
+ZCZC W09 20 L22 Quiz
+ZCZC W09 10 L02 Attended monday zoom meeting
+ZCZC W09 100 L02 Attended thursday zoom meting
+ZCZC W09 54 L11 Assignment #01
+ZCZC W09 59 L12 Assignment #02
+ZCZC W09 43 L13 Assignment #03
+ZCZC W09 160 L14 Assignment #04
+ZCZC W09 10 L15 Assignment #05
+ZCZC W09 1 L16 Assignment #06
+ZCZC W09 15 L17 Assignment #07
+ZCZC W09 10 L18 Assignment #08
+ZCZC W09 5 L19 Assignment #09
